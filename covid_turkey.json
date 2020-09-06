@@ -1131,5 +1131,19 @@
 		"Cases": 1612,
 		"Deaths": 53,
 		"Healed": 1021
+	},
+
+	"5 September 2020": {
+		"Tests": 99497,
+		"Cases": 1673,
+		"Deaths": 56,
+		"Healed": 984
+	},
+
+	"6 September 2020": {
+		"Tests": 96842,
+		"Cases": 1578,
+		"Deaths": 53,
+		"Healed": 1013
 	}
 }
