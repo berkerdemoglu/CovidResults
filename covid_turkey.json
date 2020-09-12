@@ -1145,5 +1145,40 @@
 		"Cases": 1578,
 		"Deaths": 53,
 		"Healed": 1013
+	},
+
+	"7 September 2020": {
+		"Tests": 103925,
+		"Cases": 1703,
+		"Deaths": 57,
+		"Healed": 1047
+	},
+
+	"8 September 2020": {
+		"Tests": 110565,
+		"Cases": 1761,
+		"Deaths": 52,
+		"Healed": 1093
+	},
+
+	"9 September 2020": {
+		"Tests": 111193,
+		"Cases": 1673,
+		"Deaths": 55,
+		"Healed": 943
+	},
+
+	"10 September 2020": {
+		"Tests": 107702,
+		"Cases": 1512,
+		"Deaths": 58,
+		"Healed": 1219
+	},
+
+	"11 September 2020": {
+		"Tests": 112213,
+		"Cases": 1671,
+		"Deaths": 56,
+		"Healed": 1117
 	}
 }
