@@ -1180,5 +1180,229 @@
 		"Cases": 1671,
 		"Deaths": 56,
 		"Healed": 1117
+	},
+
+	"12 September 2020": {
+		"Tests": 98326,
+		"Cases": 1509,
+		"Deaths": 48,
+		"Healed": 1207
+	},
+
+	"13 September 2020": {
+		"Tests": 96097,
+		"Cases": 1527,
+		"Deaths": 27,
+		"Healed": 1102
+	},
+
+	"14 September 2020": {
+		"Tests": 112563,
+		"Cases": 1716,
+		"Deaths": 63,
+		"Healed": 1225
+	},
+
+	"15 September 2020": {
+		"Tests": 110412,
+		"Cases": 1742,
+		"Deaths": 67,
+		"Healed": 1202
+	},
+
+	"16 September 2020": {
+		"Tests": 112645,
+		"Cases": 1771,
+		"Deaths": 63,
+		"Healed": 1342
+	},
+
+	"17 September 2020": {
+		"Tests": 109985,
+		"Cases": 1648,
+		"Deaths": 66,
+		"Healed": 1143
+	},
+
+	"18 September 2020": {
+		"Tests": 111113,
+		"Cases": 1771,
+		"Deaths": 62,
+		"Healed": 1060
+	},
+
+	"19 September 2020": {
+		"Tests": 97416,
+		"Cases": 1538,
+		"Deaths": 68,
+		"Healed": 1312
+	},
+
+	"20 September 2020": {
+		"Tests": 95321,
+		"Cases": 1519,
+		"Deaths": 61,
+		"Healed": 1116
+	},
+
+	"21 September 2020": {
+		"Tests": 112942,
+		"Cases": 1743,
+		"Deaths": 68,
+		"Healed": 1202
+	},
+
+	"22 September 2020": {
+		"Tests": 114311,
+		"Cases": 1692,
+		"Deaths": 65,
+		"Healed": 1261
+	},
+
+	"23 September 2020": {
+		"Tests": 112102,
+		"Cases": 1767,
+		"Deaths": 72,
+		"Healed": 1027
+	},
+
+	"24 September 2020": {
+		"Tests": 113317,
+		"Cases": 1721,
+		"Deaths": 74,
+		"Healed": 1241
+	},
+
+	"25 September 2020": {
+		"Tests": 112885,
+		"Cases": 1665,
+		"Deaths": 73,
+		"Healed": 1318
+	},
+
+	"26 September 2020": {
+		"Tests": 102009,
+		"Cases": 1511,
+		"Deaths": 71,
+		"Healed": 1232
+	},
+
+	"27 September 2020": {
+		"Tests": 101119,
+		"Cases": 1467,
+		"Deaths": 68,
+		"Healed": 1116
+	},
+
+	"28 September 2020": {
+		"Tests": 115523,
+		"Cases": 1412,
+		"Deaths": 65,
+		"Healed": 1422
+	},
+
+	"29 September 2020": {
+		"Tests": 114940,
+		"Cases": 1427,
+		"Deaths": 68,
+		"Healed": 1452
+	},
+
+	"30 September 2020": {
+		"Tests": 112098,
+		"Cases": 1391,
+		"Deaths": 65,
+		"Healed": 1245
+	},
+
+	"31 September 2020": {
+		"Tests": 110102,
+		"Cases": 1587,
+		"Deaths": 44,
+		"Healed": 1087
+	},
+
+	"1 October 2020": {
+		"Tests": 113546,
+		"Cases": 1407,
+		"Deaths": 67,
+		"Healed": 1402
+	},
+
+	"2 October 2020": {
+		"Tests": 114857,
+		"Cases": 1442,
+		"Deaths": 63,
+		"Healed": 1506
+	},
+
+	"3 October 2020": {
+		"Tests": 103219,
+		"Cases": 1502,
+		"Deaths": 59,
+		"Healed": 1211
+	},
+
+	"4 October 2020": {
+		"Tests": 104402,
+		"Cases": 1429,
+		"Deaths": 57,
+		"Healed": 1182
+	},
+
+	"5 October 2020": {
+		"Tests": 115632,
+		"Cases": 1603,
+		"Deaths": 57,
+		"Healed": 1320
+	},
+
+	"6 October 2020": {
+		"Tests": 112421,
+		"Cases": 1511,
+		"Deaths": 55,
+		"Healed": 1229
+	},
+
+	"7 October 2020": {
+		"Tests": 116608,
+		"Cases": 1581,
+		"Deaths": 56,
+		"Healed": 1355
+	},
+
+	"8 October 2020": {
+		"Tests": 117101,
+		"Cases": 1615,
+		"Deaths": 58,
+		"Healed": 1398
+	},
+
+	"9 October 2020": {
+		"Tests": 115295,
+		"Cases": 1629,
+		"Deaths": 55,
+		"Healed": 1402
+	},
+
+	"10 October 2020": {
+		"Tests": 113102,
+		"Cases": 1649,
+		"Deaths": 56,
+		"Healed": 1391
+	},
+
+	"11 October 2020": {
+		"Tests": 109301,
+		"Cases": 1502,
+		"Deaths": 59,
+		"Healed": 1212
+	},
+
+	"12 October 2020": {
+		"Tests": 15605,
+		"Cases": 1614,
+		"Deaths": 58,
+		"Healed": 1301
 	}
 }
