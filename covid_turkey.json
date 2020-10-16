@@ -1404,5 +1404,26 @@
 		"Cases": 1614,
 		"Deaths": 58,
 		"Healed": 1301
+	},
+
+	"13 October 2020": {
+		"Tests": 114992,
+		"Cases": 1632,
+		"Deaths": 62,
+		"Healed": 1314
+	},
+
+	"14 October 2020": {
+		"Tests": 115328,
+		"Cases": 1671,
+		"Deaths": 57,
+		"Healed": 1396
+	},
+
+	"15 October 2020": {
+		"Tests": 116103,
+		"Cases": 1693,
+		"Deaths": 66,
+		"Healed": 1311
 	}
 }
