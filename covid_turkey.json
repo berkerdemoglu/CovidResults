@@ -1425,5 +1425,40 @@
 		"Cases": 1693,
 		"Deaths": 66,
 		"Healed": 1311
+	},
+
+	"16 October 2020": {
+		"Tests": 117005,
+		"Cases": 1812,
+		"Deaths": 73,
+		"Healed": 1419
+	},
+
+	"17 October 2020": {
+		"Tests": 112131,
+		"Cases": 1723,
+		"Deaths": 71,
+		"Healed": 1401
+	},
+
+	"18 October 2020": {
+		"Tests": 101403,
+		"Cases": 1815,
+		"Deaths": 72,
+		"Healed": 1504
+	},
+
+	"19 October 2020": {
+		"Tests": 116249,
+		"Cases": 1958,
+		"Deaths": 75,
+		"Healed": 1424
+	},
+
+	"20 October 2020": {
+		"Tests": 116565,
+		"Cases": 1894,
+		"Deaths": 74,
+		"Healed": 1512
 	}
 }
